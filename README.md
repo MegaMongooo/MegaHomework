@@ -1,4 +1,0 @@
-MegaHomework
-============
-
-homework-softuni
